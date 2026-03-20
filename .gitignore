@@ -1,0 +1,4 @@
+tests/current_test.json
+tests/history.json
+__pycache__/
+.DS_Store
